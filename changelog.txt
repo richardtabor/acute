@@ -1,0 +1,57 @@
+2.1.0 - June 7, 2015
+
+** Acute Changelog **
+
+7 June 2015 - Version 2.1.0
+	* bean_custom_form_filters comments 4.2+ fix
+
+23 June 2014 - Version 2.0.5
+	* Support for Bean 500px plugin
+
+17 Mar 2014 - Version 2.0.4
+	* Head cleanup
+	* Screenshot.png update
+
+12 Feb 2014 - Version 2.0.3
+	* Support for Bean Shortcodes 2.0
+
+22 Jan 2014 - Version 2.0.2
+	* Retina.js update to v1.1.0
+
+13 Dec 2013 - Version 2.0.1
+	* WP 3.8 Patches
+	* Support for Bean Tweets Plugin 2.0
+
+14 Nov 2013 - Version 2.0.0
+	* Major theme/framework update - backup & update with caution.
+	* Updated documentation
+
+7 Oct 2013 - Version 1.4.2
+	* Support for Bean Social Plugin
+	* Added Embedded Video & Audio Portfolio Posts
+	* WP 3.6 Touchups
+
+3 Aug 2013 - Version 1.4.1
+	* Retina.js compatibility
+	* iPad/Tablet panel touch override
+
+30 July 2013 - Version 1.4.0
+	* Support for Bean Portfolio Plugin
+	* Gallery re-ordering fix
+
+18 June 2013 - Version 1.3.0
+	* Support for Bean Shortcodes Plugin
+	* Support for Bean Tweets Plugin
+	* Gallery re-ordering fix
+
+2 May 2013 - Version 1.2.0
+	* Added scrolling panel theme option
+	* Added post sharing buttons
+	* JPlayer update
+
+10 April 2013 - Version 1.1.0
+	* Analytics entry bug fix
+	* Post meta fix
+
+1 April 2013 - Version 1.0.0
+	* Initial release
